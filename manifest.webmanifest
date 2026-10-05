@@ -1,9 +1,1 @@
-{
-  "name": "PHLife — Live your LIFESTYLE",
-  "short_name": "PHLife",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#080b10",
-  "theme_color": "#0b0f14",
-  "description": "A Port Harcourt life simulation game."
-}
+{"name":"PHLife — Live your LIFESTYLE","short_name":"PHLife","start_url":"./","display":"standalone","background_color":"#060a0f","theme_color":"#20d47a"}
